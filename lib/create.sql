@@ -1,3 +1,4 @@
+def create_bears
 "CREATE TABLE (
   id PRIMARY KEY INTEGER,
   name TEXT,
@@ -7,3 +8,4 @@
   temperament TEXT,
   alive INTEGER
 );"
+end
