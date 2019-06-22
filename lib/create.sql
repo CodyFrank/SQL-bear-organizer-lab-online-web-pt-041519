@@ -1,2 +1,9 @@
-def creating_bears_table
-end
+CREATE TABLE (
+  id PRIMARY KEY INTEGER,
+  name TEXT,
+  age INTEGER,
+  gender TEXT,
+  color TEXT,
+  temperament TEXT,
+  alive INTEGER
+);
